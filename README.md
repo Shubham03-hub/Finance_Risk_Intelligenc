@@ -247,9 +247,11 @@ A few directions this project could grow:
 
 ## About
 
-Built by **Shubham Panchal** — working at the intersection of data analytics, machine learning, and finance.
+**Shubham Panchal** 
 
-[LinkedIn](https://linkedin.com/in/shubham-panchal-a100282a8)
+— Data Analytics | Data Science | Machine Learning | Business Intelligence
+
+LinkedIn: https://linkedin.com/in/shubham-panchal-a100282a8
 
 ---
 
