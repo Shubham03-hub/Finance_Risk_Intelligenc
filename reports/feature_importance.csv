@@ -1,0 +1,14 @@
+Feature,Importance
+loan_amount,0.08798784
+employment_years,0.08198831
+loss_given_default_lgd,0.08133837
+loan_income_ratio,0.0809392
+credit_utilization_ratio,0.080060355
+age,0.07985029
+interest_rate,0.07893993
+financial_stress_score,0.07780485
+transaction_stability_score,0.075641185
+loan_tenure_months,0.07261398
+macro_risk_index,0.06957942
+monthly_income,0.0686593
+digital_activity_index,0.06459707

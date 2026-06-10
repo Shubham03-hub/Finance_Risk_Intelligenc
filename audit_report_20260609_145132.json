@@ -1,0 +1,210 @@
+{
+    "shape": [
+        500,
+        15
+    ],
+    "columns": [
+        "customer_id",
+        "age",
+        "monthly_income",
+        "employment_years",
+        "credit_utilization_ratio",
+        "transaction_stability_score",
+        "digital_activity_index",
+        "loan_amount",
+        "loan_tenure_months",
+        "interest_rate",
+        "macro_risk_index",
+        "probability_of_default_pd",
+        "loss_given_default_lgd",
+        "expected_loss_el",
+        "Unnamed: 14"
+    ],
+    "missing_values": {
+        "customer_id": 0,
+        "age": 0,
+        "monthly_income": 0,
+        "employment_years": 0,
+        "credit_utilization_ratio": 0,
+        "transaction_stability_score": 0,
+        "digital_activity_index": 0,
+        "loan_amount": 0,
+        "loan_tenure_months": 0,
+        "interest_rate": 0,
+        "macro_risk_index": 0,
+        "probability_of_default_pd": 0,
+        "loss_given_default_lgd": 0,
+        "expected_loss_el": 0,
+        "Unnamed: 14": 500
+    },
+    "duplicate_rows": 0,
+    "dtypes": {
+        "customer_id": "int64",
+        "age": "int64",
+        "monthly_income": "int64",
+        "employment_years": "int64",
+        "credit_utilization_ratio": "float64",
+        "transaction_stability_score": "float64",
+        "digital_activity_index": "float64",
+        "loan_amount": "int64",
+        "loan_tenure_months": "int64",
+        "interest_rate": "float64",
+        "macro_risk_index": "float64",
+        "probability_of_default_pd": "float64",
+        "loss_given_default_lgd": "float64",
+        "expected_loss_el": "float64",
+        "Unnamed: 14": "float64"
+    },
+    "numeric_summary": {
+        "customer_id": {
+            "count": 500.0,
+            "mean": 250.5,
+            "std": 144.4818327679989,
+            "min": 1.0,
+            "25%": 125.75,
+            "50%": 250.5,
+            "75%": 375.25,
+            "max": 500.0
+        },
+        "age": {
+            "count": 500.0,
+            "mean": 43.116,
+            "std": 12.733216939456208,
+            "min": 21.0,
+            "25%": 32.0,
+            "50%": 44.0,
+            "75%": 53.0,
+            "max": 64.0
+        },
+        "monthly_income": {
+            "count": 500.0,
+            "mean": 4528.256,
+            "std": 2040.1325869680181,
+            "min": 809.0,
+            "25%": 2773.5,
+            "50%": 4542.5,
+            "75%": 6162.5,
+            "max": 7992.0
+        },
+        "employment_years": {
+            "count": 500.0,
+            "mean": 14.156,
+            "std": 8.888739132561685,
+            "min": 0.0,
+            "25%": 6.0,
+            "50%": 14.0,
+            "75%": 22.0,
+            "max": 29.0
+        },
+        "credit_utilization_ratio": {
+            "count": 500.0,
+            "mean": 0.5330799999999999,
+            "std": 0.25415290870262336,
+            "min": 0.1,
+            "25%": 0.3,
+            "50%": 0.545,
+            "75%": 0.76,
+            "max": 0.95
+        },
+        "transaction_stability_score": {
+            "count": 500.0,
+            "mean": 0.60218,
+            "std": 0.22939986092494644,
+            "min": 0.2,
+            "25%": 0.3975,
+            "50%": 0.615,
+            "75%": 0.79,
+            "max": 1.0
+        },
+        "digital_activity_index": {
+            "count": 500.0,
+            "mean": 0.5439599999999999,
+            "std": 0.2575075507191094,
+            "min": 0.1,
+            "25%": 0.33,
+            "50%": 0.545,
+            "75%": 0.76,
+            "max": 1.0
+        },
+        "loan_amount": {
+            "count": 500.0,
+            "mean": 25032.432,
+            "std": 14152.525265271364,
+            "min": 638.0,
+            "25%": 12951.25,
+            "50%": 24614.5,
+            "75%": 37125.25,
+            "max": 49929.0
+        },
+        "loan_tenure_months": {
+            "count": 500.0,
+            "mean": 24.516,
+            "std": 15.282435987086574,
+            "min": 6.0,
+            "25%": 12.0,
+            "50%": 24.0,
+            "75%": 36.0,
+            "max": 48.0
+        },
+        "interest_rate": {
+            "count": 500.0,
+            "mean": 15.525519999999998,
+            "std": 5.605264660426558,
+            "min": 5.06,
+            "25%": 11.135,
+            "50%": 15.765,
+            "75%": 20.2325,
+            "max": 24.84
+        },
+        "macro_risk_index": {
+            "count": 500.0,
+            "mean": 0.9794200000000001,
+            "std": 0.28866541018638886,
+            "min": 0.5,
+            "25%": 0.7275,
+            "50%": 0.96,
+            "75%": 1.2349999999999999,
+            "max": 1.5
+        },
+        "probability_of_default_pd": {
+            "count": 500.0,
+            "mean": 0.22093200000000002,
+            "std": 0.12839185454157617,
+            "min": 0.01,
+            "25%": 0.10975,
+            "50%": 0.216,
+            "75%": 0.33125000000000004,
+            "max": 0.448
+        },
+        "loss_given_default_lgd": {
+            "count": 500.0,
+            "mean": 0.50236,
+            "std": 0.22369378224803851,
+            "min": 0.1,
+            "25%": 0.31,
+            "50%": 0.51,
+            "75%": 0.7,
+            "max": 0.9
+        },
+        "expected_loss_el": {
+            "count": 500.0,
+            "mean": 2821.9029,
+            "std": 3069.353377289677,
+            "min": 12.27,
+            "25%": 597.675,
+            "50%": 1692.895,
+            "75%": 3698.8975,
+            "max": 16250.54
+        },
+        "Unnamed: 14": {
+            "count": 0.0,
+            "mean": NaN,
+            "std": NaN,
+            "min": NaN,
+            "25%": NaN,
+            "50%": NaN,
+            "75%": NaN,
+            "max": NaN
+        }
+    }
+}
